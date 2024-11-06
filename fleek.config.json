@@ -1,0 +1,9 @@
+{
+  "sites": [
+    {
+      "slug": "massive-dog-hissing",
+      "distDir": "out",
+      "buildCommand": "npm run build"
+    }
+  ]
+}
